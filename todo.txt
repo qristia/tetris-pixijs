@@ -1,0 +1,6 @@
+- fix resizing
+- add game modes
+- show score and line clear info
+- add outline to the board
+
+- create game ui
